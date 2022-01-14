@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on PowerBi Sales insight Project  
 - 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate in DataSCience field . 
 - 🤔 I’m looking for help with PowerBi Sales insight Project  
 - 💬 Ask me about Pyhton & Modules , Sql , Mongodb , Powerbi , Tableau , Excel  
 - 📫 How to reach me: lodhrajendra71@gmail.com 
